@@ -24,7 +24,7 @@ The following discord permissions are a must as far as I remember: ``Read Messag
 10. Enjoy!
 
 
-![image](https://github.com/user-attachments/assets/fc8b3368-ee95-493b-be42-9fc996f9d4e8)
+![image](https://github.com/user-attachments/assets/fc8b3368-ee95-493b-be42-9fc996f9d4e8) (epic bot name :))
 
 ## Credits
  [@tomasalias](https://www.github.com/tomasalias) :)
