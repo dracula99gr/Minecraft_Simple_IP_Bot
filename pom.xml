@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>me.infinity</groupId>
-    <artifactId>ngrokcom</artifactId>
-    <version>1.6-SNAPSHOT</version>
+    <groupId>Minecraft_Simple_IP_Bot</groupId>
+    <artifactId>Minecraft_Simple_IP_Bot</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>NgrokCommunication</name>
+    <name>Minecraft_Simple_IP_Bot</name>
 
     <properties>
         <java.version>1.8</java.version>
@@ -23,8 +23,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.1</version>
                 <configuration>
-                    <source>${java.version}</source>
-                    <target>${java.version}</target>
+                    <source>8</source>
+                    <target>8</target>
                 </configuration>
             </plugin>
             <plugin>
