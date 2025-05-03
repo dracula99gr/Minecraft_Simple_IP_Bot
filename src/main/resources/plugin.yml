@@ -1,6 +1,6 @@
-name: NgrokCommunication
+name: Minecraft_Simple_IP_Bot
 version: '${project.version}'
-main: me.infinity.ngrokcom.NgrokCommunication
+main: Minecraft_Simple_IP_Bot.Minecraft_Simple_IP_Bot
 api-version: 1.19
 folia-supported: true
 load: STARTUP
