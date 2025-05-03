@@ -2,9 +2,11 @@
 A simple solution that lets your buddies know about your Minecraft Server IP. :)
 
 This simple Discord Bot is intergrated as a plug-in to your modded Minecraft dedicated server. It updates the IP in case of network loss or server reboot.
-The update message is fully customizable to your preference via the ``config.yml`` file. (Keep in mind that if you choose to customize it, you need to include the predifined keywords, so they can be replaced with the correct information: ``%server_ip%``, ``%port%``, ``%currentdatetime%``.) The bot can also update its' message if you want to avoid spam, simply provide the message ID to it. 
+The update message is fully customizable to your preference via the ``config.yml`` file. (Keep in mind that if you choose to customize it, you need to include the predifined keywords, so they can be replaced with the correct information: ``%server_ip%``, ``%port%``, ``%currentdatetime%``.)
+The bot can also update its' message if you want to avoid spam, simply provide the message ID to it. 
 
-NOTE: Your IP needs to be public and the port of your choice needs to be forwarded for people to be able to connect to your server. (This plug-in is inteded for those who do not have a static IP but their IP is public). You also need to create a bot application/account on discord, configure the needed permissions, get your bot token and invite it to your discord server, all that via Discord's developer portal https://discord.com/developers/applications
+
+NOTE: Your IP needs to be public and the port of your choice needs to be forwarded for people to be able to connect to your server. (This plug-in is inteded for those who do not have a static IP but their IP is public). You also need to create a bot application/account on discord, configure the needed permissions, get your bot token and invite it to your discord server, all that via Discord's developer portal https://discord.com/developers/applications.
 The following discord permissions are a must as far as I remember: ``Read Message History``, ``Send Messages``, ``Send Messages in Threads``, ``View Channels``.
 
 
