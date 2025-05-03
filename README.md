@@ -6,7 +6,12 @@ The update message is fully customizable to your preference via the ``config.yml
 The bot can also update its' message if you want to avoid spam, simply provide the message ID to it. 
 
 
-NOTE: Your IP needs to be public and the port of your choice needs to be forwarded for people to be able to connect to your server. (This plug-in is inteded for those who do not have a static IP but their IP is public). You also need to create a bot application/account on discord, configure the needed permissions, get your bot token and invite it to your discord server, all that via Discord's [developer portal](https://discord.com/developers/applications).
+
+
+NOTE: Your IP needs to be public and the port of your choice needs to be forwarded for people to be able to connect to your server. (This plug-in is inteded for those who do not have a static IP but their IP is public).
+
+You also need to create a bot application/account on discord, configure the needed permissions, get your bot token and invite it to your discord server, all that via Discord's [developer portal](https://discord.com/developers/applications).
+
 The following discord permissions are a must as far as I remember: ``Read Message History``, ``Send Messages``, ``Send Messages in Threads``, ``View Channels``.
 
 
@@ -24,8 +29,14 @@ The following discord permissions are a must as far as I remember: ``Read Messag
 10. Enjoy!
 
 
+
+
 ![image](https://github.com/user-attachments/assets/fc8b3368-ee95-493b-be42-9fc996f9d4e8)
+
 (10/10 bot name :P)
+
+
+
 
 ## Credits
  [@tomasalias](https://www.github.com/tomasalias) :)
