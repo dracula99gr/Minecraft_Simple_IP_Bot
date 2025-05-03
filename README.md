@@ -26,4 +26,5 @@ The following discord permissions are a must as far as I remember: ``Read Messag
 
 ![image](https://github.com/user-attachments/assets/fc8b3368-ee95-493b-be42-9fc996f9d4e8)
 
-## Credits: @tomasalias :) This project was purely based on his work of Ngrokcommunication plug-in https://github.com/tomasalias/ngrok-mc-impl. He inspired me and helped me with the coding part, because I was too noob to fullfil this on my own. :P 
+## Credits
+@tomasalias :) This project was purely based on his work of Ngrokcommunication plug-in https://github.com/tomasalias/ngrok-mc-impl. He inspired me and helped me with the coding part, because I was too noob to fullfil this on my own. :P 
