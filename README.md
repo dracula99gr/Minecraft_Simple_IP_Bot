@@ -40,4 +40,4 @@ The following discord permissions are a must as far as I remember: ``Read Messag
 
 ## Credits
  [@tomasalias](https://www.github.com/tomasalias) :)
-This project was purely based on his work of [Ngrokcommunication](https://github.com/tomasalias/ngrok-mc-impl) plug-in. He inspired me and helped me with the coding part, because I was too noob to fullfil this on my own. :P 
+This project was based on his work of [Ngrokcommunication](https://github.com/tomasalias/ngrok-mc-impl) plug-in. He inspired me and helped me with the coding part, because I was too noob to fullfil this on my own. :P 
