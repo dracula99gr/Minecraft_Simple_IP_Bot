@@ -90,10 +90,12 @@ public final class Minecraft_Simple_IP_Bot extends JavaPlugin implements EventLi
                 String Port = this.getConfig().getString("DISCORD.Port");
                 String updateMessage = this.getConfig().getString("DISCORD.UPDATE_MESSAGE");
                 LocalDateTime currentDateTime = LocalDateTime.now().withNano(0);
+                String currentDateTimeString = currentDateTime.toString();
+                currentDateTimeString = currentDateTimeString.replace("T", " ");
                 String updatedMessage;
 
                 if (updateMessage != null && Port != null) {
-                    updatedMessage = updateMessage.replace("%server_ip%", publicIP).replace("%port%", Port).replace("%currentdatetime%", currentDateTime.toString());
+                    updatedMessage = updateMessage.replace("%server_ip%", publicIP).replace("%port%", Port).replace("%currentdatetime%", currentDateTimeString);
                 }
                 else {
                     getLogger().info("Empty message, please fix your config.yml file. Keep in mind to include %server_ip%, %port%, %currentdatetime%");

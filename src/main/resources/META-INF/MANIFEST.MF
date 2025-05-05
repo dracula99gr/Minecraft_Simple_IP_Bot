@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Class: Minecraft_Simple_IP_Bot.Minecraft_Simple_IP_Bot
