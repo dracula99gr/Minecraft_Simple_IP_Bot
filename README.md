@@ -1,7 +1,7 @@
 # Minecraft_Simple_IP_Bot
 A simple solution that lets your buddies know about your Minecraft Server IP. :)
 
-This simple Discord Bot is intergrated as a plug-in to your modded Minecraft dedicated server. It updates the IP in case of network loss or server reboot.
+This simple Discord Bot is intergrated as a plug-in to your modded Minecraft dedicated server. It updates the IP in case of network loss or server reboot/reload.
 The update message is fully customizable to your preference via the ``config.yml`` file. (Keep in mind that if you choose to customize it, you need to include the predifined keywords, so they can be replaced with the correct information: ``%server_ip%``, ``%port%``, ``%currentdatetime%``.)
 The bot can also update its' message if you want to avoid spam, simply provide the message ID to it. 
 
